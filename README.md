@@ -7,7 +7,7 @@ Software Engineer
 I have been learning many things, like core java for desktop application, xamarin for mobile development. I build interest in becoming a full stack development with Machine Learning (ML) and Data science.
 
 * 🌍  I'm based in Kaduna, Nigeria 🇳🇬
-* 🖥️  See my portfolio at [(https://venerable-begonia-49a6aa.netlify.app/)](http://Github.com/godamatech)
+* 🖥️  See my portfolio at [https://venerable-begonia-49a6aa.netlify.app]
 * ✉️  You can contact me at [abdullahibello8944@gmail.com](mailto:abdullahibello8944@gmail.com)
 * 🧠  I'm learning React js
 * ⚡  I'm passionate about anything problem solving & computing
